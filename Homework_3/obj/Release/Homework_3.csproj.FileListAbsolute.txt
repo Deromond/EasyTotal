@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Homework_3\Homework_3\bin\Release\Homework_3.exe.config
+C:\Users\Asus\source\repos\Homework_3\Homework_3\bin\Release\Homework_3.exe
+C:\Users\Asus\source\repos\Homework_3\Homework_3\bin\Release\Homework_3.pdb
+C:\Users\Asus\source\repos\Homework_3\Homework_3\obj\Release\Homework_3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Homework_3\Homework_3\obj\Release\Homework_3.exe
+C:\Users\Asus\source\repos\Homework_3\Homework_3\obj\Release\Homework_3.pdb
+C:\Users\Asus\source\repos\Homework_3\Homework_3\obj\Release\Homework_3.csprojResolveAssemblyReference.cache
+D:\A\Homework_3\Homework_3\bin\Release\Homework_3.exe.config
+D:\A\Homework_3\Homework_3\bin\Release\Homework_3.exe
+D:\A\Homework_3\Homework_3\bin\Release\Homework_3.pdb
+D:\A\Homework_3\Homework_3\obj\Release\Homework_3.csprojResolveAssemblyReference.cache
+D:\A\Homework_3\Homework_3\obj\Release\Homework_3.csproj.CoreCompileInputs.cache
+D:\A\Homework_3\Homework_3\obj\Release\Homework_3.exe
+D:\A\Homework_3\Homework_3\obj\Release\Homework_3.pdb
